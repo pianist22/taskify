@@ -1,0 +1,10 @@
+# docker-compose.yml
+services:
+  taskify:
+    build:
+      context: .
+      args:
+        NEXT_PUBLIC_ENABLE_MSW: "true"
+    image: priyanshu2201/taskify:demo
+    ports:
+      - "3000:3000"

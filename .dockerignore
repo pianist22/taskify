@@ -1,0 +1,10 @@
+# Ignore dev & build artifacts
+node_modules
+.next
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.log
+.env*
+README.md
