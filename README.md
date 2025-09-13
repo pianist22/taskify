@@ -2,7 +2,7 @@
 Taskify is a modern, theme-aware task manager built with Next.js App Router, Tailwind CSS, shadcn/ui, Recoil, lucide-react, and a Mock Service Worker (MSW) browser backend for realistic local development and demo environments.
 
 ## Live
-Add the deployed URL here: [LIVE_URL_HERE](https://taskify-five-nu.vercel.app/).
+Deployed WebApp Link: [LIVE_URL_HERE](https://taskify-five-nu.vercel.app/).
 
 ---
 
