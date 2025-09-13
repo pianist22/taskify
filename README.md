@@ -89,6 +89,7 @@ docker pull priyanshu2201/taskify:demo
 docker run --rm -p 3000:3000 priyanshu2201/taskify:demo
 ```
 
+To Setup for Docker Image:
 Ensure standalone output is enabled in Next config.
 
 ```
